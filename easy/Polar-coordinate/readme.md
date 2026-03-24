@@ -1,0 +1,1 @@
+[Solve Yourself Here](https://github.com/ad-larsen-co/Python_coding_challenges/tree/easy)
