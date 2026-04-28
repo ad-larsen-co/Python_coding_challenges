@@ -1,0 +1,1 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true)
